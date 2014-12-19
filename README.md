@@ -15,3 +15,6 @@ http://themeforest.net/item/yes-ultimate-responsive-onepage-wedding-template/ful
 http://themeforest.net/category/site-templates/wedding?page=1
 
 http://www.flaticon.com/packs/wedding
+
+jquery fullscrren modal
+http://www.jqueryscript.net/demo/Flexible-Photo-Gallery-Plugin-with-jQuery-CSS3-jGallery/

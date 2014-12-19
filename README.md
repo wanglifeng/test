@@ -13,3 +13,5 @@ http://www.php100.com/html/it/focus/2014/1106/7729.html
 http://themeforest.net/item/yes-ultimate-responsive-onepage-wedding-template/full_screen_preview/9764364
 
 http://themeforest.net/category/site-templates/wedding?page=1
+
+http://www.flaticon.com/packs/wedding

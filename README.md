@@ -24,3 +24,8 @@ http://www.jqueryscript.net/demo/jQuery-Ajax-Loading-Overlay-with-Loading-Text-S
 http://www.jqueryscript.net/demo/Responsive-Touch-Friendly-jQuery-Gallery-Lightbox-Plugin-lightGallery/
 http://www.jqueryscript.net/demo/jQuery-Plugin-For-Fullscreen-One-Page-Scrolling-Websites-fullPage-js/#4thpage
 
+
+netsh wlan set hostednetwork ssid=MYNETWORKNAME key=MYPASSWORD
+netsh wlan start hostednetwork
+netsh wlan stop hostednetwork
+

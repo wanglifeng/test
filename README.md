@@ -18,3 +18,9 @@ http://www.flaticon.com/packs/wedding
 
 jquery fullscrren modal
 http://www.jqueryscript.net/demo/Flexible-Photo-Gallery-Plugin-with-jQuery-CSS3-jGallery/
+
+http://www.jqueryscript.net/demo/Modern-Circular-jQuery-Countdown-Timer-Plugin-Final-Countdown/
+http://www.jqueryscript.net/demo/jQuery-Ajax-Loading-Overlay-with-Loading-Text-Spinner-Plugin/demo/
+http://www.jqueryscript.net/demo/Responsive-Touch-Friendly-jQuery-Gallery-Lightbox-Plugin-lightGallery/
+http://www.jqueryscript.net/demo/jQuery-Plugin-For-Fullscreen-One-Page-Scrolling-Websites-fullPage-js/#4thpage
+

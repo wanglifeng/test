@@ -29,3 +29,5 @@ netsh wlan set hostednetwork ssid=MYNETWORKNAME key=MYPASSWORD
 netsh wlan start hostednetwork
 netsh wlan stop hostednetwork
 
+
+http://www.baidufe.com/item/f07a3be0b23b4c9606bb.html
